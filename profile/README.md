@@ -11,6 +11,7 @@
 - [BUMP](https://github.com/zyz-airdrops/bump-claimer)
 - [CYBER FINANCE](https://github.com/zyz-airdrops/cyberfinance-claimer)
 - [MATCH QUEST](https://github.com/zyz-airdrops/matchquest-claimer)
+- [TABIZOO](https://github.com/zyz-airdrops/tabizoo-claimer)
 
 # Contribution 
 
