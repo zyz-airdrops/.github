@@ -9,6 +9,8 @@
 - [AGENT301](https://github.com/zyz-airdrops/agent301-claimer)
 - [HASHCATS](https://github.com/zyz-airdrops/hashcats-claimer)
 - [BUMP](https://github.com/zyz-airdrops/bump-claimer)
+- [CYBER FINANCE](https://github.com/zyz-airdrops/cyberfinance-claimer)
+- [MATCH QUEST](https://github.com/zyz-airdrops/matchquest-claimer)
 
 # Contribution 
 
