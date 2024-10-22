@@ -18,3 +18,5 @@
 This organisation accepts members who are sincerely willing to contribute to the repositories, so feel free to join and create PRs and help eachother.
 
 [Discussion](https://github.com/orgs/zyz-airdrops/discussions) page is open and is accepting new ideas and requirements.
+
+![](https://komarev.com/ghpvc/?username=zyz-airdrops)
