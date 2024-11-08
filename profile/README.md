@@ -14,6 +14,7 @@
 - [TABIZOO](https://github.com/zyz-airdrops/tabizoo-claimer)
 - [PITCHTALK](https://github.com/zyz-airdrops/pitchtalk-claimer)
 - [W3BFLIX](https://github.com/zyz-airdrops/w3bflix-claimer)
+- [POCKETFI](https://github.com/zyz-airdrops/pocketfibot)
 
 
 # Contribution 
