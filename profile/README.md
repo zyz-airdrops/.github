@@ -12,6 +12,9 @@
 - [CYBER FINANCE](https://github.com/zyz-airdrops/cyberfinance-claimer)
 - [MATCH QUEST](https://github.com/zyz-airdrops/matchquest-claimer)
 - [TABIZOO](https://github.com/zyz-airdrops/tabizoo-claimer)
+- [PITCHTALK](https://github.com/zyz-airdrops/pitchtalk-claimer)
+- [W3BFLIX](https://github.com/zyz-airdrops/w3bflix-claimer)
+
 
 # Contribution 
 
