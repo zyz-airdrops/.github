@@ -15,7 +15,8 @@
 - [PITCHTALK](https://github.com/zyz-airdrops/pitchtalk-claimer)
 - [W3BFLIX](https://github.com/zyz-airdrops/w3bflix-claimer)
 - [POCKETFI](https://github.com/zyz-airdrops/pocketfibot)
-
+- [PAWS](https://github.com/zyz-airdrops/PawsBot)
+- [SEED](https://github.com/zyz-airdrops/seed-claimer)
 
 # Contribution 
 
